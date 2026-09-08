@@ -245,9 +245,9 @@ class IAMRITA(Developer):
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamrita-ai/iamrita-ai/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamrita-ai/iamrita-ai/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/iamrita-ai/iamrita-ai/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating my contribution graph"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamrita-ai/iamrita-ai/output/github-contribution-grid-snake-dark.svg?v=snk1"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamrita-ai/iamrita-ai/output/github-contribution-grid-snake.svg?v=snk1"/>
+    <img src="https://raw.githubusercontent.com/iamrita-ai/iamrita-ai/output/github-contribution-grid-snake-dark.svg?v=snk1" width="100%" alt="Snake eating my contribution graph"/>
   </picture>
 </p>
 
