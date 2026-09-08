@@ -13,6 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=iamrita-ai&label=Profile+views&color=8b5cf6&style=flat" alt="Profile views"/>
   <a href="https://github.com/iamrita-ai?tab=followers"><img src="https://img.shields.io/github/followers/iamrita-ai?label=Followers&style=social" alt="Followers"/></a>
   <a href="https://github.com/iamrita-ai?tab=repositories"><img src="https://img.shields.io/badge/Repositories-26-blueviolet?style=flat&logo=github" alt="Repos"/></a>
+  <a href="https://github.com/iamrita-ai?tab=repositories"><img src="https://img.shields.io/github/stars/iamrita-ai?affiliations=OWNER&label=Total%20Stars&style=social" alt="Total stars"/></a>
 </p>
 
 <p align="center">
@@ -21,26 +22,20 @@
   <img src="https://img.shields.io/badge/Status-Building_Awesome-22c55e?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
 </p>
 
-<!-- ═══════════ AI-GENERATED BANNER ═══════════ -->
+<!-- ═══════════ BANNER ═══════════ -->
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="IAMRITA — cyberpunk developer banner, AI generated"/>
+  <img src="assets/banner.png" width="100%" alt="IAMRITA — cyberpunk developer banner"/>
 </p>
 
-<!-- ═══════════ VIDEO INTRO ═══════════ -->
-<h2 align="center">🎬 Motion Intro <sub><sup>(press play)</sup></sub></h2>
-
-<p align="center">
-  <video autoplay="autoplay" muted="muted" loop="loop" playsinline controls width="100%" poster="assets/banner.png">
-    <source src="https://raw.githubusercontent.com/iamrita-ai/iamrita-ai/main/assets/showcase.mp4" type="video/mp4"/>
-  </video>
-</p>
+<!-- ═══════════ MOTION INTRO ═══════════ -->
+<h2 align="center">Motion Intro <sub><sup>(press play)</sup></sub></h2>
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/iamrita-ai/iamrita-ai/main/assets/showcase.mp4" title="Watch full video">
     <img src="assets/showcase.gif" width="480" alt="IAMRITA animated showcase — click to watch HD video"/>
   </a>
   <br/>
-  <sub>👆 <a href="https://raw.githubusercontent.com/iamrita-ai/iamrita-ai/main/assets/showcase.mp4">Watch in HD</a> • AI-generated art + motion intro, made for this profile 🎨</sub>
+  <sub>👆 <a href="https://raw.githubusercontent.com/iamrita-ai/iamrita-ai/main/assets/showcase.mp4">Watch in HD</a> • Custom artwork + motion intro, made for this profile 🎨</sub>
 </p>
 
 ---
@@ -52,31 +47,31 @@
 ## 🧠 About Me — `whoami`
 
 ```python
-rita = Developer(
-    name="IAMRITA",
-    role="Telegram Bot Developer",
-    thinking="rational // no sugar-coating",
-    emotions="disabled",
-    logic="always_on",
-    hobbies=["novels", "self_dev_books",
-             "netflix", "telegram_bots",
-             "video_games", "chess"],
-)
-print(rita.motto())
-# >>> "Logic over Emotions. Truth over Comfort."
+class IAMRITA(Developer):
+    role = "Telegram Bot Developer"
+    stack = ["Python", "Bot APIs",
+             "Automation", "AI"]
+    mindset = "Rational. Direct. Zero sugar-coating."
+    emotions = None  # intentionally undefined
+    hobbies = ["Novels", "Self-growth books",
+               "Netflix", "Telegram bots",
+               "Video games", "Chess"]
+
+    def motto(self):
+        return "Emotions are noise. Logic is the signal."
 ```
 
-- 🤖 I build **Telegram bots** — downloaders, automation, AI chat, music, book bots & more
-- 📚 Reader of **novels + self-development books** — I learn, then I build
-- ♟️ **Chess player** — every commit is a calculated move
-- 🎮 Gamer • 🎬 Netflix enjoyer • ⚡ Automation-obsessed
-- 🧊 I think **rationally, without sugar-coating** — logic, no emotions
+- 🤖 I design & build **Telegram bots** — downloaders, AI assistants, music & book bots, full automation systems
+- 🧠 **Rational thinker** — I choose truth over comfort and logic over feelings. Always.
+- 📚 Constant reader — **novels** for imagination, **self-development** for discipline
+- ♟️ Chess-trained mind — every move, and every commit, is **calculated**
+- 🎯 Current focus: smarter bots, cleaner code, deeper automation
 
     </td>
     <td width="38%" valign="top" align="center">
-      <img src="assets/character.png" width="100%" alt="IAMRITA character — AI generated"/>
+      <img src="assets/character.png" width="100%" alt="IAMRITA character"/>
       <br/>
-      <sub><i>✨ My digital self — AI generated ✨</i></sub>
+      <sub><i>✨ My digital self ✨</i></sub>
       <br/><br/>
       <a href="https://t.me/TechnicalSerena"><img src="https://img.shields.io/badge/💬_Chat-TechnicalSerena-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
       <br/>
@@ -91,10 +86,10 @@ print(rita.motto())
 <h2 align="center">⚡ My Operating System</h2>
 
 <p align="center">
-  <a href="https://github.com/iamrita-ai"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1200&color=67E8F9&center=true&vCenter=true&width=700&lines=Emotions+are+noise.+Logic+is+signal.;Sugar-coating+is+lying+politely.+I+choose+truth.;Think+like+chess+%E2%80%94+every+move+calculated.;Feelings+fade.+Facts+remain.+Code+stays." alt="Animated philosophy quotes"/></a>
+  <a href="https://github.com/iamrita-ai"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1200&color=67E8F9&center=true&vCenter=true&width=700&lines=Emotions+are+noise.+Logic+is+the+signal.;Sugar-coating+is+lying+politely.+I+serve+truth+raw.;Feelings+fade.+Facts+remain.+Code+stays.;Think+like+chess.+Every+move+calculated." alt="Animated philosophy quotes"/></a>
 </p>
 
-> 🧊 *"I don't think with emotions. I think with logic. No sugar-coating — reality, compiled and executed."* — **IAMRITA**
+> 🧊 *"Emotions are noise. Logic is the signal."* — **IAMRITA**
 
 ---
 
@@ -153,33 +148,79 @@ print(rita.motto())
 ## 📊 GitHub Stats — The Receipts
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamrita-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrita-ai&theme=tokyonight&hide_border=true" width="49%" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=iamrita-ai&theme=tokyonight&hide_border=true" width="49%" alt="GitHub contribution streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamrita-ai&theme=tokyonight" width="49%" alt="GitHub profile stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrita-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="38%" alt="Top languages"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrita-ai&theme=react-dark&hide_border=true&area=true" width="60%" alt="Activity graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamrita-ai&theme=tokyonight" width="49%" alt="Most used language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamrita-ai&theme=tokyonight" width="49%" alt="Repos per language"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamrita-ai&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="GitHub trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamrita-ai&theme=tokyonight" width="88%" alt="Profile details"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamrita-ai&theme=tokyonight" width="49%" alt="Most productive time"/>
+  <a href="https://github.com/iamrita-ai"><img src="https://img.shields.io/github/followers/iamrita-ai?label=Followers&style=for-the-badge&logo=github&color=8b5cf6" alt="Followers badge"/></a>
+</p>
+
+### 📈 Contribution Chart
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/8b5cf6/iamrita-ai" width="100%" alt="Contribution chart"/>
 </p>
 
 ---
 
 ## 🔥 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/iamrita-ai/SERENA-UNZIP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamrita-ai&repo=SERENA-UNZIP&theme=tokyonight&hide_border=true" width="49%" alt="SERENA-UNZIP"/></a>
-  <a href="https://github.com/iamrita-ai/Terabox-Drive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamrita-ai&repo=Terabox-Drive&theme=tokyonight&hide_border=true" width="49%" alt="Terabox-Drive"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/iamrita-ai/Books"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamrita-ai&repo=Books&theme=tokyonight&hide_border=true" width="49%" alt="Books bot"/></a>
-  <a href="https://github.com/iamrita-ai/telegram-ai-autoreply"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamrita-ai&repo=telegram-ai-autoreply&theme=tokyonight&hide_border=true" width="49%" alt="telegram-ai-autoreply"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/iamrita-ai/advanced-telegram-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamrita-ai&repo=advanced-telegram-bot&theme=tokyonight&hide_border=true" width="49%" alt="advanced-telegram-bot"/></a>
-  <a href="https://github.com/iamrita-ai/SERNA-Spotify-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamrita-ai&repo=SERNA-Spotify-&theme=tokyonight&hide_border=true" width="49%" alt="SERNA-Spotify"/></a>
-</p>
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/iamrita-ai/SERENA-UNZIP"><img src="https://img.shields.io/badge/🤖_SERENA_UNZIP-8b5cf6?style=for-the-badge&logo=telegram&logoColor=white" alt="SERENA-UNZIP"/></a>
+      <br/><sub><b>Telegram file-unzip bot</b> — extract archives right inside chat.</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <a href="https://github.com/iamrita-ai/SERENA-UNZIP/stargazers"><img src="https://img.shields.io/github/stars/iamrita-ai/SERENA-UNZIP?style=social" alt="stars"/></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/iamrita-ai/Terabox-Drive"><img src="https://img.shields.io/badge/📥_Terabox_Drive-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Terabox-Drive"/></a>
+      <br/><sub><b>Terabox & Drive direct links</b> — one click, straight to download.</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <a href="https://github.com/iamrita-ai/Terabox-Drive/stargazers"><img src="https://img.shields.io/github/stars/iamrita-ai/Terabox-Drive?style=social" alt="stars"/></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/iamrita-ai/Books"><img src="https://img.shields.io/badge/📚_Books_Bot-22c55e?style=for-the-badge&logo=telegram&logoColor=white" alt="Books"/></a>
+      <br/><sub><b>Book PDF provider bot</b> — your library, on Telegram.</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <a href="https://github.com/iamrita-ai/Books/stargazers"><img src="https://img.shields.io/github/stars/iamrita-ai/Books?style=social" alt="stars"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/iamrita-ai/telegram-ai-autoreply"><img src="https://img.shields.io/badge/🧠_AI_Autoreply-FF6B6B?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram-ai-autoreply"/></a>
+      <br/><sub><b>AI auto-replies in your voice</b> — Professional & Casual modes.</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <a href="https://github.com/iamrita-ai/telegram-ai-autoreply/stargazers"><img src="https://img.shields.io/github/stars/iamrita-ai/telegram-ai-autoreply?style=social" alt="stars"/></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/iamrita-ai/advanced-telegram-bot"><img src="https://img.shields.io/badge/⚡_Advanced_Bot-F59E0B?style=for-the-badge&logo=telegram&logoColor=white" alt="advanced-telegram-bot"/></a>
+      <br/><sub><b>All-in-one bot</b> — Instagram, music & universal downloader.</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <a href="https://github.com/iamrita-ai/advanced-telegram-bot/stargazers"><img src="https://img.shields.io/github/stars/iamrita-ai/advanced-telegram-bot?style=social" alt="stars"/></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/iamrita-ai/SERNA-Spotify-"><img src="https://img.shields.io/badge/🎵_SERNA_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="SERNA-Spotify"/></a>
+      <br/><sub><b>Spotify-style music app</b> — stream vibes, Serena edition.</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <a href="https://github.com/iamrita-ai/SERNA-Spotify-/stargazers"><img src="https://img.shields.io/github/stars/iamrita-ai/SERNA-Spotify-?style=social" alt="stars"/></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/iamrita-ai?tab=repositories"><img src="https://img.shields.io/badge/📦_Explore_ALL_26_Repositories-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="All repos"/></a>
@@ -197,8 +238,14 @@ print(rita.motto())
 
 ## 🐍 Contribution Snake — Watch It Eat My Code
 
+<p align="center"><i>It never stops eating. Neither do I. 🧠 (auto-updates every 6 hours)</i></p>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iamrita-ai/iamrita-ai/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamrita-ai/iamrita-ai/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamrita-ai/iamrita-ai/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/iamrita-ai/iamrita-ai/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating my contribution graph"/>
+  </picture>
 </p>
 
 ---
@@ -209,4 +256,4 @@ print(rita.motto())
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer"/>
 
-<p align="center"><sub>© 2026 IAMRITA • Crafted with logic, zero emotions • 🎨 AI art + 🎬 motion intro generated for this profile</sub></p>
+<p align="center"><sub>© 2026 IAMRITA • Crafted with logic, zero emotions • 🎨 Custom artwork + motion intro crafted for this profile</sub></p>
