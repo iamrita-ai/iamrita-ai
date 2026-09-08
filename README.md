@@ -241,7 +241,7 @@ class IAMRITA(Developer):
 
 ## 🐍 Contribution Snake — Watch It Eat My Code
 
-<p align="center"><i>Every contribution it eats adds <b>+1 to its tail</b>. 367 blocks. Zero mercy. 🧠 (auto-updates every 6 hours)</i></p>
+<p align="center"><i>It never stops eating. Neither do I. 🧠 (auto-updates every 6 hours)</i></p>
 
 <p align="center">
   <picture>

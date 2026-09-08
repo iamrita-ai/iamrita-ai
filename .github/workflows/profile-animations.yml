@@ -21,6 +21,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Generate contribution snakes 1.0 (light + dark, custom purple)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#7c3aed&color_dots=#ede9fe,#ddd6fe,#c4b5fd,#a78bfa,#8b5cf6
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#c084fc&color_dots=#f5d0fe,#e9d5ff,#c4b5fd,#a78bfa,#8b5cf6
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -29,7 +37,7 @@ jobs:
       - name: Install dependencies
         run: pip install pillow requests
 
-      - name: Generate growing snake + rhythm card
+      - name: Generate rhythm card
         run: python3 tools/arcade.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
