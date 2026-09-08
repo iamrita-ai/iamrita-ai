@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: Generate profile animations
 
 on:
   schedule:
@@ -7,24 +7,40 @@ on:
   push:
     branches:
       - main
+    paths:
+      - "tools/arcade.py"
+      - ".github/workflows/profile-animations.yml"
 
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate snakes (light + dark, custom purple)
+      - name: Generate contribution snakes (light + dark, custom purple)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#7c3aed&color_dots=#ede9fe,#ddd6fe,#c4b5fd,#a78bfa,#8b5cf6
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#c084fc&color_dots=#f5d0fe,#e9d5ff,#c4b5fd,#a78bfa,#8b5cf6
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pillow requests
+
+      - name: Generate arcade zone (growing snake, pacman, rhythm)
+        run: python3 tools/arcade.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
