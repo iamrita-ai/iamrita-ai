@@ -184,6 +184,9 @@ class IAMRITA(Developer):
       <br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
       <a href="https://github.com/iamrita-ai/SERENA-UNZIP/stargazers"><img src="https://img.shields.io/github/stars/iamrita-ai/SERENA-UNZIP?style=social" alt="stars"/></a>
+      <br/>
+      <a href="https://github.com/iamrita-ai/SERENA-UNZIP/issues"><img src="https://img.shields.io/github/issues/iamrita-ai/SERENA-UNZIP?style=social&label=issues" alt="issues"/></a>
+      <a href="https://github.com/iamrita-ai/SERENA-UNZIP/pulls"><img src="https://img.shields.io/github/issues-pr/iamrita-ai/SERENA-UNZIP?style=social&label=PRs" alt="PRs"/></a>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/iamrita-ai/Terabox-Drive"><img src="https://img.shields.io/badge/📥_Terabox_Drive-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Terabox-Drive"/></a>
@@ -191,6 +194,9 @@ class IAMRITA(Developer):
       <br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
       <a href="https://github.com/iamrita-ai/Terabox-Drive/stargazers"><img src="https://img.shields.io/github/stars/iamrita-ai/Terabox-Drive?style=social" alt="stars"/></a>
+      <br/>
+      <a href="https://github.com/iamrita-ai/Terabox-Drive/issues"><img src="https://img.shields.io/github/issues/iamrita-ai/Terabox-Drive?style=social&label=issues" alt="issues"/></a>
+      <a href="https://github.com/iamrita-ai/Terabox-Drive/pulls"><img src="https://img.shields.io/github/issues-pr/iamrita-ai/Terabox-Drive?style=social&label=PRs" alt="PRs"/></a>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/iamrita-ai/Books"><img src="https://img.shields.io/badge/📚_Books_Bot-22c55e?style=for-the-badge&logo=telegram&logoColor=white" alt="Books"/></a>
@@ -198,6 +204,9 @@ class IAMRITA(Developer):
       <br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
       <a href="https://github.com/iamrita-ai/Books/stargazers"><img src="https://img.shields.io/github/stars/iamrita-ai/Books?style=social" alt="stars"/></a>
+      <br/>
+      <a href="https://github.com/iamrita-ai/Books/issues"><img src="https://img.shields.io/github/issues/iamrita-ai/Books?style=social&label=issues" alt="issues"/></a>
+      <a href="https://github.com/iamrita-ai/Books/pulls"><img src="https://img.shields.io/github/issues-pr/iamrita-ai/Books?style=social&label=PRs" alt="PRs"/></a>
     </td>
   </tr>
   <tr>
@@ -207,6 +216,9 @@ class IAMRITA(Developer):
       <br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
       <a href="https://github.com/iamrita-ai/telegram-ai-autoreply/stargazers"><img src="https://img.shields.io/github/stars/iamrita-ai/telegram-ai-autoreply?style=social" alt="stars"/></a>
+      <br/>
+      <a href="https://github.com/iamrita-ai/telegram-ai-autoreply/issues"><img src="https://img.shields.io/github/issues/iamrita-ai/telegram-ai-autoreply?style=social&label=issues" alt="issues"/></a>
+      <a href="https://github.com/iamrita-ai/telegram-ai-autoreply/pulls"><img src="https://img.shields.io/github/issues-pr/iamrita-ai/telegram-ai-autoreply?style=social&label=PRs" alt="PRs"/></a>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/iamrita-ai/advanced-telegram-bot"><img src="https://img.shields.io/badge/⚡_Advanced_Bot-F59E0B?style=for-the-badge&logo=telegram&logoColor=white" alt="advanced-telegram-bot"/></a>
@@ -214,6 +226,9 @@ class IAMRITA(Developer):
       <br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
       <a href="https://github.com/iamrita-ai/advanced-telegram-bot/stargazers"><img src="https://img.shields.io/github/stars/iamrita-ai/advanced-telegram-bot?style=social" alt="stars"/></a>
+      <br/>
+      <a href="https://github.com/iamrita-ai/advanced-telegram-bot/issues"><img src="https://img.shields.io/github/issues/iamrita-ai/advanced-telegram-bot?style=social&label=issues" alt="issues"/></a>
+      <a href="https://github.com/iamrita-ai/advanced-telegram-bot/pulls"><img src="https://img.shields.io/github/issues-pr/iamrita-ai/advanced-telegram-bot?style=social&label=PRs" alt="PRs"/></a>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://github.com/iamrita-ai/SERNA-Spotify-"><img src="https://img.shields.io/badge/🎵_SERNA_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="SERNA-Spotify"/></a>
@@ -221,6 +236,9 @@ class IAMRITA(Developer):
       <br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
       <a href="https://github.com/iamrita-ai/SERNA-Spotify-/stargazers"><img src="https://img.shields.io/github/stars/iamrita-ai/SERNA-Spotify-?style=social" alt="stars"/></a>
+      <br/>
+      <a href="https://github.com/iamrita-ai/SERNA-Spotify-/issues"><img src="https://img.shields.io/github/issues/iamrita-ai/SERNA-Spotify-?style=social&label=issues" alt="issues"/></a>
+      <a href="https://github.com/iamrita-ai/SERNA-Spotify-/pulls"><img src="https://img.shields.io/github/issues-pr/iamrita-ai/SERNA-Spotify-?style=social&label=PRs" alt="PRs"/></a>
     </td>
   </tr>
 </table>
